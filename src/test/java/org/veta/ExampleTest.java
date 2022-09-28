@@ -8,7 +8,7 @@ import java.util.Random;
 public class ExampleTest {
     @Test
     void exampleTest0() {
-        Assertions.assertFalse(2 < 4);
+        Assertions.assertTrue(2 < 1);
     }
 
     @Test
