@@ -13,11 +13,11 @@ public class ExampleTest {
 
     @Test
     void exampleTest1() {
-        Assertions.assertFalse(3 > 5);
+        Assertions.assertFalse(3 > 2);
     }
     @Test
     void exampleTest2() {
-        Assertions.assertFalse(4 > 9);
+        Assertions.assertFalse(4 > 2);
     
     }
 }
