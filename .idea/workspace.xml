@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9acd5105-d6fb-42f2-af93-9b21e9129be9" name="Changes" comment="use random" />
+    <list default="true" id="9acd5105-d6fb-42f2-af93-9b21e9129be9" name="Changes" comment="resolved conflict">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/veta/ExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/veta/ExampleTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664389643628</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="resolved conflict">
+      <created>1664390995451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664390995451</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix logic" />
     <MESSAGE value="use random" />
-    <option name="LAST_COMMIT_MESSAGE" value="use random" />
+    <MESSAGE value="resolved conflict" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolved conflict" />
   </component>
 </project>
